@@ -1,0 +1,18 @@
+{
+   "name": "osp-wrapanapi",
+   "types": ["pack"],
+   "version": "0.0.1",
+   "homepage": "https://github.com/kedark3/osp-wrapanapi-pack",
+   "author": "Kedar Kulkarni",
+   "description": "OpenStack checks making use of wrapanapi",
+   "repository": "https://github.com/kedark3/osp-wrapanapi-pack",
+   "keywords": [
+      "pack",
+      "osp"
+   ],
+   "dependencies": {
+      "shinken": ">=1.4"
+   },
+   "license": "AGPL"
+}
+
