@@ -26,5 +26,11 @@
          "_OSP_VOLUME_COUNT_CRIT": {"type":"integer",
                              "description":"Critical Number of Volumes in OSP"
                              },
+         "_OSP_IMAGE_COUNT_WARN": {"type":"integer",
+                             "description":"Warning Number of Images in OSP"
+                             },
+         "_OSP_IMAGE_COUNT_CRIT": {"type":"integer",
+                             "description":"Critical Number of Images in OSP"
+                             },
          }
 }
